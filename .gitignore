@@ -1,0 +1,26 @@
+# Secrets
+**/appsettings.Development.json
+
+# .NET Build Output
+**/bin/
+**/obj/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.DotSettings.user
+*.swp
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# NuGet
+*.nupkg
+
+# Misc
+*.log
+Thumbs.db

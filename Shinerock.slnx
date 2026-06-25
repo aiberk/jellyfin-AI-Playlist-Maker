@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Shinerock.API/Shinerock.API.csproj" />
+    <Project Path="src/Shinerock.Application/Shinerock.Application.csproj" />
+    <Project Path="src/Shinerock.Domain/Shinerock.Domain.csproj" />
+    <Project Path="src/Shinerock.Infrastructure/Shinerock.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Shinerock.Tests/Shinerock.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@Shinerock.API_HostAddress = http://localhost:5221
+
+GET {{Shinerock.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
